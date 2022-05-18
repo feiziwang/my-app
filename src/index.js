@@ -9,7 +9,7 @@ class App extends React.Component {
   }
   render() {
     return (
-      <a href="http://itcast.cn/" onClick={this.handleClick}>传智播客黑马</a>
+      <a href="http://itcast.cn/" onClick={this.handleClick}>学渣在线学习传智播客黑马</a>
     )
   }
 }
